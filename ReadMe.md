@@ -1,7 +1,4 @@
-# Team Members
-- Ashutosh Anand (23071003244)
-- Deependra Yadav (23071003289)
-- Dhruv Rathour (2307100230300)
+
 
 # 📈 Stock Price Prediction Using Machine Learning
 
