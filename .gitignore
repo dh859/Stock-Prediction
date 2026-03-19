@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Distribution / packaging
+.Python
+env/
+venv/
+lib/
+lib64/
+*.egg-info/
+.installed.txt
+*.egg
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+.vscode/
+
+# OS
+.DS_Store
+.localized
+Thumbs.db
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build artifacts
+build/
+dist/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Specific files to exclude
+!src/
+!main.py
+!ReadMe.md
+!requirements.txt
